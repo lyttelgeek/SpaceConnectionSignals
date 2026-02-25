@@ -1,1 +1,1 @@
-![signals](space-connection-signals.png)
+![signals](thumbnail.png)
