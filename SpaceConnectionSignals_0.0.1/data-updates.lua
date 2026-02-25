@@ -52,7 +52,7 @@ for origin_idx, from in ipairs(locations) do
 
   for _, to in ipairs(locations) do
     if from.name ~= to.name then
-      -- Internal signal name (lowercase or capitalised optional, doesn't affect display)
+      -- Internal signal name
       local signal_name = "space-connection-signal-" .. from.name .. "-to-" .. to.name
 
       -- Determine display names: use hardcoded if available, otherwise fallback to name
@@ -71,7 +71,7 @@ for origin_idx, from in ipairs(locations) do
           icons = {
             { icon = "__space-age__/graphics/icons/planet-route.png" },
 
-            -- Origin behind (slightly smaller, shifted for padding)
+            -- Origin behind destination (slightly smaller, shifted for padding)
             {
               icon = from.icon,
               icon_size = from.icon_size or 64,
@@ -88,7 +88,7 @@ for origin_idx, from in ipairs(locations) do
               tint = {0, 0, 0, 0.3}
             },
 
-            -- Destination in front (slightly larger)
+            -- Destination in front of origin (slightly larger)
             {
               icon = to.icon,
               icon_size = to.icon_size or 64,
@@ -103,4 +103,5 @@ for origin_idx, from in ipairs(locations) do
       })
     end
   end
+
 end
