@@ -1,1 +1,1 @@
-(thumbnail.png)
+![signals](thumbnail.png)
