@@ -51,16 +51,16 @@ dashboards.
 
 ### Only generate direct starmap connections
 
-Generates signals only for planet/location pairs that have a direct
+- Generates signals only for planet/location pairs that have a direct
 `space-connection` defined on the starmap.
 
-Useful for large mod packs that introduce many indirect bodies.
+- Useful for large mod packs that introduce many indirect bodies.
 
 ### Generate one signal per pair (galaxy order)
 
-Generates only one directional signal per pair of bodies.
+- Generates only one directional signal per pair of bodies.
 
-This reduces total signal count by roughly half.
+- This reduces total signal count by roughly half.
 
 Both settings can be enabled independently or together.
 
