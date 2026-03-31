@@ -15,7 +15,7 @@ These signals can be used in:
 Each signal visually represents a route from one body to another using
 layered planet icons over the Space Age route background.
 
-------------------------------------------------------------------------
+---
 
 ## Why This Mod Exists
 
@@ -34,7 +34,7 @@ single, clean signal icon.
 It's admittedly a bit niche, but it looks great on platform
 dashboards.
 
-------------------------------------------------------------------------
+---
 
 ## Features
 
@@ -45,7 +45,7 @@ dashboards.
 -   No runtime scripts
 -   No UPS impact
 
-------------------------------------------------------------------------
+---
 
 ## Startup Settings
 
@@ -68,7 +68,7 @@ This reduces total signal count by roughly half.
 
 Both settings can be enabled independently or together.
 
-------------------------------------------------------------------------
+---
 
 ## Compatibility
 
@@ -77,14 +77,8 @@ Both settings can be enabled independently or together.
 -   Compatible with modded planets and space-locations
 -   Automatically adapts to added `space-connection` prototypes
 
-------------------------------------------------------------------------
+---
 
 ## Current Version
 
 [v1.0.1 - Icon Tweaks]( )
-
-------------------------------------------------------------------------
-
-## Author
-
-Nzungu
