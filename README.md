@@ -5,9 +5,12 @@
 Adds individual signal icons for space routes between planets and space
 locations in Space Age.
 
-These signals can be used in: - Circuit networks - Display panels -
-Logistic labelling - Blueprints - Any system that supports virtual
-signals
+These signals can be used in: 
+- Circuit networks
+- Display panels
+- Logistic labelling
+- Blueprints
+- Any system that supports virtual signals
 
 Each signal visually represents a route from one body to another using
 layered planet icons over the Space Age route background.
