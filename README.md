@@ -1,21 +1,16 @@
 # Space Connection Signals
 
-![signals](thumbnail.png)
-
 Adds individual signal icons for space routes between planets and space
 locations in Space Age.
 
-These signals can be used in: 
-- Circuit networks
-- Display panels
-- Logistic labelling
-- Blueprints
-- Any system that supports virtual signals
+These signals can be used in: - Circuit networks - Display panels -
+Logistic labelling - Blueprints - Any system that supports virtual
+signals
 
 Each signal visually represents a route from one body to another using
 layered planet icons over the Space Age route background.
 
----
+------------------------------------------------------------------------
 
 ## Why This Mod Exists
 
@@ -32,9 +27,9 @@ allows you to effectively merge "heading from" and "heading to" into a
 single, clean signal icon.
 
 It's admittedly a bit niche, but it looks great on platform
-dashboards, and I find it useful for logitistics and labelling.
+dashboards.
 
----
+------------------------------------------------------------------------
 
 ## Features
 
@@ -45,26 +40,30 @@ dashboards, and I find it useful for logitistics and labelling.
 -   No runtime scripts
 -   No UPS impact
 
----
+------------------------------------------------------------------------
 
 ## Startup Settings
 
 ### Only generate direct starmap connections
 
-- Generates signals only for planet/location pairs that have a direct
+Generates signals only for planet/location pairs that have a direct
 `space-connection` defined on the starmap.
 
-- Useful for large mod packs that introduce many indirect bodies.
+Useful for large mod packs that introduce many indirect bodies.
 
 ### Generate one signal per pair (galaxy order)
 
-- Generates only one directional signal per pair of bodies.
+Generates only one directional signal per pair of bodies.
 
-- This reduces total signal count by roughly half.
+Instead of: A → B \ B → A
+
+Only: Earlier-in-galaxy-order → Later-in-galaxy-order
+
+This reduces total signal count by roughly half.
 
 Both settings can be enabled independently or together.
 
----
+------------------------------------------------------------------------
 
 ## Compatibility
 
@@ -73,11 +72,14 @@ Both settings can be enabled independently or together.
 -   Compatible with modded planets and space-locations
 -   Automatically adapts to added `space-connection` prototypes
 
----
+------------------------------------------------------------------------
 
-#  Current Version
+## Version
 
-[v1.0.0 Initial Stable Release](https://github.com/lyttelgeek/SpaceConnectionSignals/releases/tag/1.0.0-Initial_Release)
+Current version: **1.0.0**
 
----
+------------------------------------------------------------------------
 
+## Author
+
+Nzungu
