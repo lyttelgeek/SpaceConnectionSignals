@@ -81,4 +81,4 @@ Both settings can be enabled independently or together.
 
 ## Current Version
 
-[v1.0.1 - Icon Tweaks]( )
+[v1.0.1 - Icon Tweaks](https://github.com/lyttelgeek/SpaceConnectionSignals/releases/tag/1.0.1-Icon_Cleanup)
