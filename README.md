@@ -79,9 +79,9 @@ Both settings can be enabled independently or together.
 
 ------------------------------------------------------------------------
 
-## Version
+## Current Version
 
-Current version: **1.0.0**
+[v1.0.1 - Icon Tweaks]( )
 
 ------------------------------------------------------------------------
 
