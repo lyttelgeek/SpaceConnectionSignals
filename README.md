@@ -1,6 +1,6 @@
 # Space Connection Signals
 
-<p align="center">![Signals](thumbnail.png)</p>
+![Signals](thumbnail.png)
 
 Adds individual signal icons for space routes between planets and space
 locations in Space Age.
