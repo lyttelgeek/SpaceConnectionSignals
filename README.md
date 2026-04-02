@@ -13,7 +13,7 @@ These signals can be used in:
 - Any system that supports virtual signals
 
 Each signal visually represents a route from one body to another using
-layered planet icons over the Space Age route background.
+layered planet icons.
 
 ---
 
