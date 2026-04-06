@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2026-03-31
+  Changes:
+    - Removed vanilla arrow layer "planet-route.png" from icons.
+    - Properly implemented full modded planet icon support.
+    - Slightly reduced icon scaling to fit display panels better.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-02-28
+  Major Features:
+    - Initial stable release.
+  Features:
+    - Generates virtual signals for all space routes between planets and space locations.
+    - Composite layered route icons using Space Age visuals.
+    - Galaxy-order sorting of signals.
+    - Startup setting: generate only direct starmap connections.
+    - Startup setting: generate one signal per pair (galaxy order priority).
+    - Compatibility with modded planets and space-locations.
+  Info:
+    - Bulk data:extend() implementation for efficient prototype registration.
+    - Direct space-connection adjacency detection.
+    - Proper LocalisedString usage for signal names.
