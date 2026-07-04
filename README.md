@@ -72,7 +72,7 @@ Both settings can be enabled independently or together.
 
 ## Compatibility
 
--   Requires **Factorio 2.0**
+-   Requires **Factorio 2.1**
 -   Requires **Space Age**
 -   Compatible with modded planets and space-locations
 -   Automatically adapts to added `space-connection` prototypes

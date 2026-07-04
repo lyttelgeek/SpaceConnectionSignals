@@ -1,6 +1,14 @@
 # Changelog
 
 
+## 1.0.2 - Factorio 2.1 Compatibility
+
+### Changes
+- Updated for Factorio 2.1 (`info.json` `factorio_version` set to `2.1`)
+- No prototype or logic changes; the data-stage API used by this mod was verified unchanged against the official 2.1 changelog
+
+---
+
 ## 1.0.1 - Icon Tweaks
 
 ### Changes

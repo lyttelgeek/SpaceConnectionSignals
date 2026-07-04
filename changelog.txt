@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2026-07-04
+  Changes:
+    - Updated for Factorio 2.1 compatibility (info.json factorio_version set to 2.1).
+    - No prototype or logic changes; data-stage API verified unchanged against the official 2.1 changelog.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-03-31
   Changes:
