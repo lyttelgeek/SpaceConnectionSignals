@@ -72,7 +72,7 @@ Both settings can be enabled independently or together.
 
 ## Compatibility
 
--   Requires **Factorio 2.0**
+-   Requires **Factorio 2.1**
 -   Requires **Space Age**
 -   Compatible with modded planets and space-locations
 -   Automatically adapts to added `space-connection` prototypes
@@ -81,6 +81,6 @@ Both settings can be enabled independently or together.
 
 ## Current Version
 
-[v1.0.1 - Icon Tweaks](https://github.com/lyttelgeek/SpaceConnectionSignals/releases/tag/1.0.1-Icon_Cleanup)
+v1.0.2 - Factorio 2.1 compatibility ([fork of lyttelgeek/SpaceConnectionSignals](https://github.com/edwinpircher/SpaceConnectionSignals))
 
 ---
